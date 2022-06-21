@@ -18,7 +18,7 @@
 
 ![CryptoTracker: Earn Money, Trade Crypto, Track Portfolio](./assets/demo.jpg)
 
-![Video Demo](https://drive.google.com/file/d/1oBsbNkp4j8pIR6OJoJELpwklJiavDIx1/view)
+[CryptoTrack Video Demo](https://drive.google.com/file/d/1oBsbNkp4j8pIR6OJoJELpwklJiavDIx1/view)
 
 
 ## Architecture
