@@ -18,6 +18,8 @@
 
 ![CryptoTracker: Earn Money, Trade Crypto, Track Portfolio](./assets/demo.jpg)
 
+![Video Demo] (https://drive.google.com/file/d/1oBsbNkp4j8pIR6OJoJELpwklJiavDIx1/view)
+
 ## Architecture
 
 CryptoTracker was built to run on particularly iOS and Android. It uses [Expo](https://expo.dev/) as a core lib to build and distribute to all the platforms.
